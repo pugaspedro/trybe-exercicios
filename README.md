@@ -1,3 +1,1 @@
 # Meu Repositório de Exercícios
-
-Praticando...
